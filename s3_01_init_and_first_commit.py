@@ -23,6 +23,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from _helpers import make_clean_repo_dir, banner, instruct, write_file  # noqa: E402
 
+#pull test
 
 def main() -> None:
     banner("3교시 실습 1 — 첫 저장소 만들기 (init → add → commit → log)")
