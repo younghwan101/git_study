@@ -24,6 +24,7 @@ from _helpers import (  # noqa: E402
     write_file, run, ensure_local_git_identity,
 )
 
+#git diff
 
 def main() -> None:
     banner("4교시 실습 1 — git diff 의 세 가지 영역 비교")

@@ -17,6 +17,9 @@ git merge 가 자동 병합에 실패하고, 학습자가 손으로 해결해야
 
 abort 로 빠져나가는 옵션도 함께 보여준다 (잘못 들어갔을 때의 비상구).
 """
+
+#ff merge test
+
 import sys
 from pathlib import Path
 
